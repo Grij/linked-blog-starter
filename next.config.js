@@ -3,7 +3,7 @@ module.exports = {
     return [
       {
         source: '/',
-        destination: '/home',
+        destination: 'https://github.com/Grij/linked-blog-starter-md',
         permanent: true,
       },
     ]
